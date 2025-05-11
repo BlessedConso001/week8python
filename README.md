@@ -1,4 +1,3 @@
-"""
 🦠 COVID-19 Data Analysis Project
 
 This project analyzes COVID-19 data using Python. It includes data preprocessing, statistical analysis, and visualizations
@@ -36,6 +35,17 @@ Install the required Python libraries:
 1. Place the Corona.csv file in the same directory as this script.
 2. Run this script in a Python environment:
     python covid_analysis.py
+
+🧮 Data Analysis and Code
+1.The following steps were performed to analyze the COVID-19 dataset:
+2.Load the Dataset: The Corona.csv file is read into a DataFrame.
+3.Handle Missing Values: All missing entries are filled with zeros to ensure consistency in analysis.
+4.Generate Summary Statistics: Descriptive statistics and missing value counts are computed to understand data distribution and quality.
+5.Group by Continent: Data is aggregated by continent to calculate total confirmed cases and deaths.
+6.Calculate Death Rate:
+The global COVID-19 death rate is calculated using the formula:
+Death Rate = (Total Deaths ÷ Total Confirmed Cases)
+**This provides a measure of the pandemic's severity worldwide.
 
 📈 Insights
 1. Europe: Highest percentage of confirmed cases (~37.3%).
