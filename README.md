@@ -42,11 +42,12 @@ Install the required Python libraries:
 2. North America: High death rate despite moderate confirmed cases.
 3. Australia: Low confirmed cases and deaths — likely due to strict measures.
 
-📁 File Structure
+File_structure 
 COVID19_Data_Analysis_Project/
-├── covid_analysis.py   # This script
-├── Corona.csv          # Dataset (not included here)
-└── README.md           # Optional documentation file
+├── covid_analysis.py   # Main Python script with all documentation and code
+├── Corona.csv          # COVID-19 dataset (you must add this yourself)
+└── README.md           # Optional documentation file (if keeping a separate README)
+
 
 ⚖️ License
 This project is for educational purposes only. The dataset is obtained from kaggle and code are provided as-is, without any warranty.
