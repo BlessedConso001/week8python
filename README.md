@@ -44,6 +44,7 @@ Install the required Python libraries:
 
 File_structure 
 COVID19_Data_Analysis_Project/
+
 ├── covid_analysis.py   
 ├── Corona.csv          
 └── README.md           
