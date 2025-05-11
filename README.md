@@ -44,9 +44,9 @@ Install the required Python libraries:
 
 File_structure 
 COVID19_Data_Analysis_Project/
-├── covid_analysis.py   # Main Python script with all documentation and code
-├── Corona.csv          # COVID-19 dataset (you must add this yourself)
-└── README.md           # Optional documentation file (if keeping a separate README)
+├── covid_analysis.py   
+├── Corona.csv          
+└── README.md           
 
 
 ⚖️ License
